@@ -1,0 +1,39 @@
+
+   .header{
+      display:flex;
+       justify-content: space-between;
+
+   }
+   .grid{
+       display:flex;
+       justify-content: space-evenly
+
+   }
+   .menu{
+    display:flex;
+    justify-content: flex-end
+
+}
+   .grid img{
+       border: 2px solid black;
+       border-radius: 50px;
+   }
+   .origami{
+
+
+    border-radius: 20px;
+    background-attachment:white;
+
+    width: 300px;
+    font-family: fantasy;
+   }
+   p {
+       color: blueviolet;
+       align-items: center;
+       font-size: 20;
+       background-color: brown;
+   }
+   body{
+       background-color: pink;
+   }
+   
