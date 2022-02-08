@@ -5,15 +5,15 @@ app=Flask(__name__)
 tasks=[
     {
         'id':1,
-        'title':'list of groceries',
+        'title':'list of utensils',
         'description':'whitehat jr',
         'done':False
         
     },
       {
         'id':2,
-        'title':'list of books',
-        'description':'god',
+        'title':'list of cloths',
+        'description':'whitehat jr is great for coding',
         'done':False
         
     },
